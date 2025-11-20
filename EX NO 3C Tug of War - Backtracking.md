@@ -38,8 +38,8 @@ Constraints:
 ## Program:
 ```
 /*
-Developed by: Mohammed Muzammil A
-Register Number:  212222040103
+Developed by: Kiran C
+Register Number:  212222040077
 */
 import java.util.Scanner;
 
